@@ -1,0 +1,12 @@
+<resources>
+    <string name="appname">Supported language</string>
+    <string name="welcome">Welcome</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">You dont have account ? Sign up</string>
+    <string name="changelanguage">Change language</string>
+</resources>
+
+
+
